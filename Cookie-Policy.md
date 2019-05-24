@@ -24,11 +24,6 @@ The table below explains the types of cookies we use on our websites and why we 
 
 |Cookie|Purpose|
 |--- |--- |
-|__pdvt|Used in log of Polldaddy survey data to aid in debugging customer problems|
-|ab|Used for "AB testing" of new features.|
-|nux_flow_name|Identifies which user signup flow was shown to the user.|
-|tk_ni / tk_ai / tk_qs|Gathers information for our own, first party analytics tool about how our services are used. A collection of internal metrics for user activity, used to improve user experience.|
-|wp-affiliate-tracker|Remembers the ID of the affiliate that referred the current user to WordPress.com|
 |utma / utmb / utmc / utmt / utmz / ga / gat / gid|Google Analytics. Gathers information that helps us understand how visitors interact with our websites, which allow us to create a better experience for our visitors. Our users may also implement Google Analytics on their own websites.|
 
 #### **EU Cookie Law Banner**
@@ -45,4 +40,4 @@ Visitors may wish to restrict the use of cookies or completely prevent them from
 
 ### Contact Us
 
-If you have any questions about our use of cookies, you can find the most relevant contact details in our [Privacy Policy](https://cooksouschef.com/privacy/).
+If you have any questions about our use of cookies, you can find the most relevant contact details in our [Privacy Policy](https://cooksouschef.com/policies#privacy-policy).
