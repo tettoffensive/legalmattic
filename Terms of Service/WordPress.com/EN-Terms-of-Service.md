@@ -1,5 +1,3 @@
-### Terms of Service
-
 ## The Gist
 
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. We’ve decided to make these Terms available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of these Terms and other legal documents on [Github](https://github.com/Automattic/legalmattic). You’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise the language so that your Terms reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Automattic somewhere on your website.
